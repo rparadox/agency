@@ -1,0 +1,4 @@
+node_modules/
+.sass-cache/
+deploy/
+*.zip

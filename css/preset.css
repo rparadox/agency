@@ -1,0 +1,59 @@
+/*presets*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+/*end presets*/
+/*importing fonts*/
+@font-face {
+    font-family: 'latoblack';
+    src: url("../fonts/lato-black/Lato-Black.ttf");
+    src: url("../fonts/lato-black/lato-black-webfont.woff");
+    src: url("../fonts/lato-black/lato-black-webfont.woff2");
+}
+
+@font-face {
+    font-family: 'lemon_milkbold';
+    src: url("../fonts/lemon-milk/LEMONMILK-Bold.otf");
+    src: url("../fonts/lemon-milk/lemonmilk-bold-webfont.woff");
+    src: url("../fonts/lemon-milk/lemonmilk-bold-webfont.woff2");
+}
+
+@font-face {
+    font-family: 'latobold';
+    src: url("../fonts/lato-bold/Lato-Bold.ttf");
+    src: url("../fonts/lato-bold/lato-bold-webfont.woff");
+    src: url("../fonts/lato-bold/lato-bold-webfont.woff2");
+}
+
+@font-face {
+    font-family: 'peace_sansregular';
+    src: url("../fonts/peaceSans/peace_sans-webfont.ttf");
+    src: url("../fonts/peaceSans/peace_sans-webfont.eot");
+    src: url("../fonts/peaceSans/peace_sans-webfont.woff");
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url("../fonts/opensans-regular/OpenSans-Regular.ttf");
+    src: url("../fonts/opensans-regular/opensans-regular-webfont.woff");
+    src: url("../fonts/opensans-regular/opensans-regular-webfont.woff2");
+}
+
+@font-face {
+    font-family: 'open_sansextrabold';
+    src: url("../fonts/opensans-extrabold/OpenSans-ExtraBold.ttf");
+    src: url("../fonts/opensans-extrabold/opensans-extrabold-webfont.woff");
+    src: url("../fonts/opensans-extrabold/opensans-extrabold-webfont.woff2");
+}
+
+@font-face {
+    font-family: 'MyriadPro';
+    src: url("../fonts/myriadPro/MYRIADPRO-REGULAR.woff");
+}
+/*end importing fonts*/

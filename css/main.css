@@ -1,0 +1,24 @@
+/*importing preset*/
+@import "preset.css";
+/*end importing preset*/
+/*importing banner*/
+@import "banner/banner.css";
+/*end importing banner*/
+/*importing about*/
+@import "about/about.css";
+/*end importing about*/
+/*importing affairs*/
+@import "affairs/affairs.css";
+/*end importing affairs*/
+/*importing work*/
+@import "work/work.css";
+/*end importing work*/
+/*importing slider*/
+@import "slider/slider.css";
+/*end importing slider*/
+/*importing client*/
+@import "client/client.css";
+/*end importing client*/
+/*importing footer*/
+@import "footer/footer.css";
+/*end importing footer*/
